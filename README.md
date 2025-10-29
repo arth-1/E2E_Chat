@@ -26,3 +26,4 @@ A production-ready, private 1:1 messaging app built with React Native, Expo, and
 - Row-Level Security (RLS) policies in Supabase
 - Encrypted media files in Supabase Storage
 - No plaintext message content on server
+Auric
