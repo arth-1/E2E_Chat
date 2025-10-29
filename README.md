@@ -1,4 +1,5 @@
 # E2E_Chat - Secure 1:1 Messaging App
+## i'll edit this by tonight and make it more client friendly
 
 A production-ready, private 1:1 messaging app built with React Native, Expo, and Supabase. Features end-to-end encryption, sticker/GIF support, and a private gallery for sharing moments.
 
