@@ -21,7 +21,7 @@ All messages and media remain **confidential** — never stored or transmitted i
 
 ## 🎥 Video Demonstration
 
-> *Add your demo video link or path here*
+[![Watch the demo](./thumbnail.png)](./demo%20video.mp4)
 
 ---
 
