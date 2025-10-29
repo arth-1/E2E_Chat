@@ -21,7 +21,7 @@ A production-ready, private 1:1 messaging app built with React Native, Expo, and
 - **Navigation**: React Navigation
 
 ## Security
-
+Saanvi
 - End-to-end encrypted messages using X25519 key exchange and XSalsa20-Poly1305 authenticated encryption
 - Private keys stored securely in device Keychain/Keystore (mobile) or IndexedDB (web)
 - Row-Level Security (RLS) policies in Supabase
