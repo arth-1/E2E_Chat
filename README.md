@@ -103,4 +103,4 @@ All messages and media remain **confidential** — never stored or transmitted i
 
 ## 📄 License
 
-> *License information will be added here.*
+This project is licensed under the [MIT License](./LICENSE) © 2025 **Arth Agarwal**.
